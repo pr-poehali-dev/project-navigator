@@ -88,7 +88,7 @@ export default function Home() {
                     backgroundColor: "transparent",
                   }}
                 >
-                  Отменяйте ошибки AI мгновенно. Просматривайте безопасно. Откатывайте в один клик.
+                  Экспериментируйте смело. Ошибайтесь без страха. Откатывайте мгновенно.
                 </p>
               </div>
 
@@ -154,7 +154,7 @@ export default function Home() {
                   backgroundColor: "transparent",
                 }}
               >
-                Отменяйте ошибки AI мгновенно -- сохраняйте прогресс и восстанавливайте в один клик.
+                Пробуйте новое без страха -- каждое изменение можно отменить в один клик.
               </p>
               <div className="flex flex-row justify-center gap-3 md:gap-4 mb-8">
                 <Button
