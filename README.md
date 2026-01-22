@@ -1,3 +1,7 @@
-# project-navigator
+# Rewind - AI-контроль версий
 
-Initial repository setup for pr-poehali-dev/project-navigator
+![Preview](preview.png)
+
+Лендинг для инструмента контроля версий кода при работе с AI-ассистентами. Позволяет сохранять, просматривать и восстанавливать код после изменений AI в один клик. Включает hero-секцию с градиентом, список поддерживаемых IDE, секции с видео-демонстрациями, отзывы пользователей и FAQ.
+
+`"tags": ["landing", "dark", "ai", "developer", "gradient", "animations"]`
